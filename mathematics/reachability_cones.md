@@ -4,7 +4,7 @@
 
 The Reachable State Space from state $\mathbf{z}(t_0)$ over time horizon $\Delta t$ is:
 
-$$\mathcal{R}(\mathbf{z}(t_0), \Delta t) = \left\{\mathbf{z}(t_0 + \Delta t) \;\middle|\; \mathbf{z}(t_0 + \Delta t) \text{ is achievable under system dynamics and available controls}\right\}$$
+$$\mathcal{R}(\mathbf{z}(t_0), \Delta t) = \{ \mathbf{z}(t_0 + \Delta t) \mid \mathbf{z}(t_0 + \Delta t) \text{ is achievable under system dynamics and available controls} \}$$
 
 This set forms a cone-like structure in the latent manifold, expanding forward in time from the current state. Its geometry encodes the system's future possibilities.
 
