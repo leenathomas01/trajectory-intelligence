@@ -37,7 +37,7 @@ Trajectory Intelligence in medicine shifts from reactive treatment to proactive 
 
 ## The Forcing Function: Full-Body Ultrasonic CT
 
-Systems like the Midjourney Medical full-body ultrasonic CT scanner serve as the forcing function for this paradigm shift. By making sub-millimeter volumetric scanning available at consumer wellness frequency (monthly or quarterly rather than once-per-crisis), they generate the longitudinal data density required to construct biological World-Lines.
+Systems like the ![Midjourney Medical full-body ultrasonic CT scanner](https://www.midjourney.com/medical) serve as the forcing function for this paradigm shift. By making sub-millimeter volumetric scanning available at consumer wellness frequency (monthly or quarterly rather than once-per-crisis), they generate the longitudinal data density required to construct biological World-Lines.
 
 The strategic value is not better snapshots. It is the transition from snapshot to trajectory as the primary unit of medical data.
 
