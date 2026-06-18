@@ -126,3 +126,20 @@ This framework is intentionally incomplete. If you work in dynamical systems, co
 ## License
 
 MIT — See [LICENSE](LICENSE) for details.
+
+---
+
+---
+
+## Related Work
+
+**For a complete catalog of related research:**  
+📂 [Research Index](https://github.com/leenathomas01/research-index)
+
+**Thematically related:**
+- [Stability Before Alignment](https://github.com/leenathomas01/Stability-Before-Alignment) — system-level coherence constraints
+- [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat) — Autonomic nervous system for AI
+- [Continuity Problem](https://github.com/leenathomas01/The-Continuity-Problem) — why governance must precede persistent memory
+- [Hyperloop FXSO](https://github.com/leenathomas01/hyperloop-fxso) — Emergent intelligence via constrained dynamical fields
+
+---
