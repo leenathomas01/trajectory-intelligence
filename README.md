@@ -128,6 +128,19 @@ This framework is intentionally incomplete. If you work in dynamical systems, co
 MIT — See [LICENSE](LICENSE) for details.
 
 ---
+## Research Provenance
+
+This repository emerged through an iterative multi-model research collaboration involving:
+
+* **Gemini** — exploratory synthesis, conceptual expansion, and cross-domain pattern discovery.
+* **ChatGPT (Thea)** — systems analysis, framework refinement, structural critique, and theoretical consolidation.
+* **Claude Opus** — document architecture, repository organization, editorial refinement, and research-program structuring.
+
+The framework itself should not be interpreted as the output of any single model. Rather, it emerged through cycles of proposal, critique, falsification, synthesis, and refinement across multiple reasoning systems, with human direction and curation throughout.
+
+This provenance is included because the methodology is relevant to the work. The repository explores trajectory-based intelligence, and its development followed a similar process: multiple perspectives interacting over time to produce a representation that none of the individual contributors generated independently.
+
+All interpretations, conclusions, and remaining errors are ultimately the responsibility of the repository maintainer.
 
 ---
 
